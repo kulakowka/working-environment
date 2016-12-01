@@ -44,3 +44,13 @@ Installed Packages:
 
 Color theme:
 - [iterm2-snazzy](https://github.com/sindresorhus/iterm2-snazzy)
+
+#### Utilities
+
+- [Postman](https://www.getpostman.com/)
+
+#### NPM
+
+- [nodemon](https://www.npmjs.com/package/nodemon)
+- [pm2](https://github.com/Unitech/pm2)
+- [n](https://www.npmjs.com/package/n)
