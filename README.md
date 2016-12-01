@@ -42,3 +42,4 @@ Installed Packages:
 
 #### Terminal: [iTerm2](https://www.iterm2.com/)
 
+- [iterm2-snazzy](https://github.com/sindresorhus/iterm2-snazzy)
