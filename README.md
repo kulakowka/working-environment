@@ -42,4 +42,5 @@ Installed Packages:
 
 #### Terminal: [iTerm2](https://www.iterm2.com/)
 
+Color theme:
 - [iterm2-snazzy](https://github.com/sindresorhus/iterm2-snazzy)
