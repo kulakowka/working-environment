@@ -25,6 +25,7 @@ Installed Packages:
 - [jsFormat](https://packagecontrol.io/packages/JsFormat)
 - [JSHint Gutter](https://packagecontrol.io/packages/JSHint%20Gutter)
 - [JSX](https://packagecontrol.io/packages/JSX)
+- [LESS](https://packagecontrol.io/packages/LESS)
 - [Markdown Preview](https://packagecontrol.io/packages/Markdown%20Preview)
 - [Ruby Slim](https://packagecontrol.io/packages/Ruby%20Slim)
 - [Sass](https://packagecontrol.io/packages/Sass)
