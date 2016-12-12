@@ -49,9 +49,9 @@ Color theme:
 #### Utilities
 
 - [Postman](https://www.getpostman.com/)
-
-#### NPM
-
-- [nodemon](https://www.npmjs.com/package/nodemon)
-- [pm2](https://github.com/Unitech/pm2)
-- [n](https://www.npmjs.com/package/n)
+- [serve](https://github.com/zeit/serve) - Single-command HTTP directory listing and file serving
+- [https://ngrok.com/](ngrok) - Secure tunnels to localhost.
+- [nodemon](https://www.npmjs.com/package/nodemon) - will watch the files in the directory in which nodemon was started, and if any files change, nodemon will automatically restart your node application.
+- [pm2](https://github.com/Unitech/pm2) - Production process manager for Node.js apps.
+- [n](https://www.npmjs.com/package/n) - Node.js version management.
+- [yarn](https://github.com/yarnpkg/yarn) - Yarn is a package manager.
