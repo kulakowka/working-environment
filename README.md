@@ -48,7 +48,7 @@ Color theme:
 
 #### Utilities
 
-- [Postman](https://www.getpostman.com/)
+- [Postman](https://www.getpostman.com/) - Postman helps me develop APIs faster.
 - [serve](https://github.com/zeit/serve) - Single-command HTTP directory listing and file serving
 - [https://ngrok.com/](ngrok) - Secure tunnels to localhost.
 - [nodemon](https://www.npmjs.com/package/nodemon) - will watch the files in the directory in which nodemon was started, and if any files change, nodemon will automatically restart your node application.
