@@ -2,6 +2,14 @@
 
 A list of programs, plugins, utilities, etc... it's my working environment.
 
+#### Every day sites
+
+| Url                                    | Description                                                                                                                                                                                     |
+|:---------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [github.com](https://github.com)       | For [explore new projects](https://github.com/search?l=JavaScript&o=desc&p=1&q=stars%3A%3E100&ref=searchresults&s=updated&type=Repositories&utf8=%E2%9C%93), publish my open-source projects... |
+| [npms.io](https://npms.io)             | For search node.js packages.                                                                                                                                                                    |
+| [npmsearch.com](https://npmsearch.com) | For search node.js packages.                                                                                                                                                                    |
+
 #### Primary Browser: [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html)
 
 Extensions:
@@ -21,9 +29,9 @@ Extensions:
 | Hotkey                                                             | Description                                   |
 |:-------------------------------------------------------------------|:----------------------------------------------|
 | <kbd>ALT</kbd> + <kbd>TAB</kbd>                                    | Open Tab Browser.                             |
+| <kbd>CMD</kbd> + <kbd>SHIFT</kbd> + <kbd>A</kbd>                   | Sort selected lines using regular expression. |
 | <kbd>CMD</kbd> + <kbd>SHIFT</kbd> + <kbd>R</kbd>                   | Save and refresh active browser window.       |
 | <kbd>CMD</kbd> + <kbd>SHIFT</kbd> + <kbd>S</kbd>                   | Sort selected lines.                          |
-| <kbd>CMD</kbd> + <kbd>SHIFT</kbd> + <kbd>A</kbd>                   | Sort selected lines using regular expression. |
 | <kbd>CTRL</kbd> + <kbd>ALT</kbd> + <kbd>F</kbd>                    | Format javascript code in standard style.     |
 | <kbd>CTRL</kbd> + <kbd>ALT</kbd> + <kbd>SHIFT</kbd> + <kbd>T</kbd> | Format selected lines or the entire document. |
 
