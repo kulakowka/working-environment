@@ -38,6 +38,7 @@ Installed Packages:
 - [SublimeLinter-jshint](https://packagecontrol.io/packages/SublimeLinter-jshint)
 - [SublimeLinter-json](https://packagecontrol.io/packages/SublimeLinter-json)
 - [SublimeLinter-jsxhint](https://packagecontrol.io/packages/SublimeLinter-jsxhint)
+- [eslint](https://packagecontrol.io/packages/ESLint)
 - [Todo Review](https://packagecontrol.io/packages/TodoReview)
 - [Whitespace](https://packagecontrol.io/packages/Whitespace)
 
