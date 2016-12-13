@@ -22,7 +22,7 @@ Extensions:
 | <kbd>CMD</kbd> + <kbd>SHIFT</kbd> + <kbd>R</kbd> | Save and refresh active browser window. |
 | <kbd>CMD</kbd> + <kbd>SHIFT</kbd> + <kbd>S</kbd> | Sort selected lines. |
 | <kbd>CMD</kbd> + <kbd>SHIFT</kbd> + <kbd>A</kbd> | Sort selected lines using regular expression. |
-| <kbd>CTRL</kbd> + <kbd>ALT</kbd> + <kbd>F</kbd> | Format javascript code in current file. |
+| <kbd>CTRL</kbd> + <kbd>ALT</kbd> + <kbd>F</kbd> | Format javascript code in standard style. |
 
 ##### Installed Packages:
 
