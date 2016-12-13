@@ -27,28 +27,29 @@ Extensions:
 
 ##### Installed Packages:
 
-| Name                                                                                                  | Description                                                                                   |
-|:------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------|
-| [Align Tab](https://packagecontrol.io/packages/AlignTab)                                              | An alignment plugin using regular expression.                                                 |
-| [Babel](https://packagecontrol.io/packages/Babel)                                                     | Syntax definitions for ES6 JavaScript with React JSX extensions.                              |
-| [Bracket Highlighter](https://packagecontrol.io/packages/BracketHighlighter)                          | Bracket and tag highlighter.                                                                  |
-| [Browser Refresh](https://packagecontrol.io/packages/Browser%20Refresh)                               | Save the file you are working on and refresh your browser with one keystroke.                 |
-| [Default File Type](https://packagecontrol.io/packages/Default%20File%20Type)                         | Package which automatically sets the syntax for new files.                                    |
-| [Doc Blockr](https://packagecontrol.io/packages/DocBlockr)                                            | Simplifies writing DocBlock comments in Javascript, PHP, CoffeeScript, Actionscript, C & C++. |
-| [Editor Config](https://packagecontrol.io/packages/EditorConfig)                                      | Helps developers maintain consistent coding styles between different editors.                 |
-| [Git Gutter](https://packagecontrol.io/packages/GitGutter)                                            | Plugin to see git diff in gutter.                                                             |
-| [Jade](https://packagecontrol.io/packages/Jade)                                                       | A comprehensive textmate / sublime text bundle for the Jade template language.                |
-| [jsFormat](https://packagecontrol.io/packages/JsFormat)                                               | Javascript formatting.                                                                        |
-| [JSX](https://packagecontrol.io/packages/JSX)                                                         | Language Definitions for JSX files.                                                           |
-| [LESS](https://packagecontrol.io/packages/LESS)                                                       | LESS syntax highlighting for Sublime Text.                                                    |
-| [Markdown Preview](https://packagecontrol.io/packages/Markdown%20Preview)                             | Preview and build markdown files.                                                             |
-| [Markdown Table Formatter](https://packagecontrol.io/packages/Markdown%20Table%20Formatter)           | Sublime Text 3 plugin for formatting markdown table.                                          |
-| [Ruby Slim](https://packagecontrol.io/packages/Ruby%20Slim)                                           | A Sublime Text bundle for Slim.                                                               |
+| Name                                                                                                | Description                                                                                   |
+|:----------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------|
+| [Align Tab](https://packagecontrol.io/packages/AlignTab)                                            | An alignment plugin using regular expression.                                                 |
+| [Babel](https://packagecontrol.io/packages/Babel)                                                   | Syntax definitions for ES6 JavaScript with React JSX extensions.                              |
+| [Bracket Highlighter](https://packagecontrol.io/packages/BracketHighlighter)                        | Bracket and tag highlighter.                                                                  |
+| [Browser Refresh](https://packagecontrol.io/packages/Browser%20Refresh)                             | Save the file you are working on and refresh your browser with one keystroke.                 |
+| [Default File Type](https://packagecontrol.io/packages/Default%20File%20Type)                       | Package which automatically sets the syntax for new files.                                    |
+| [Doc Blockr](https://packagecontrol.io/packages/DocBlockr)                                          | Simplifies writing DocBlock comments in Javascript, PHP, CoffeeScript, Actionscript, C & C++. |
+| [Editor Config](https://packagecontrol.io/packages/EditorConfig)                                    | Helps developers maintain consistent coding styles between different editors.                 |
+| [Git Gutter](https://packagecontrol.io/packages/GitGutter)                                          | Plugin to see git diff in gutter.                                                             |
+| [Jade](https://packagecontrol.io/packages/Jade)                                                     | A comprehensive textmate / sublime text bundle for the Jade template language.                |
+| [jsFormat](https://packagecontrol.io/packages/JsFormat)                                             | Javascript formatting.                                                                        |
+| [JSX](https://packagecontrol.io/packages/JSX)                                                       | Language Definitions for JSX files.                                                           |
+| [LESS](https://packagecontrol.io/packages/LESS)                                                     | LESS syntax highlighting for Sublime Text.                                                    |
+| [Markdown Preview](https://packagecontrol.io/packages/Markdown%20Preview)                           | Preview and build markdown files.                                                             |
+| [Markdown Table Formatter](https://packagecontrol.io/packages/Markdown%20Table%20Formatter)         | Sublime Text 3 plugin for formatting markdown table.                                          |
+| [Ruby Slim](https://packagecontrol.io/packages/Ruby%20Slim)                                         | A Sublime Text bundle for Slim.                                                               |
 | [Sass](https://packagecontrol.io/packages/Sass)                                                       | Sass support for Sublime Text.                                                                |
 | [Side Bar Enhancements](https://packagecontrol.io/packages/SideBarEnhancements)                       | Enhancements to sidebar. Files and folders.                                                   |
 | [StandardFormat](https://packagecontrol.io/packages/StandardFormat)                                   | Runs standard-format against the javascript in your ST3 window on save or manually.           |
 | [Stylus](https://packagecontrol.io/packages/Stylus)                                                   | Stylus Package for Sublime Text.                                                              |
 | [SublimeLinter-annotations](https://packagecontrol.io/packages/SublimeLinter-annotations)             | SublimeLinter 3 plugin that marks annotations such as TODO, FIXME, etc.                       |
+| [SublimeLinter-contrib-pug-lint](https://packagecontrol.io/packages/SublimeLinter-contrib-pug-lint) | SublimeLinter plugin for Pug/Jade.                                   |
 | [SublimeLinter-contrib-sass-lint](https://packagecontrol.io/packages/SublimeLinter-contrib-sass-lint) | SublimeLinter plugin for Sass/SCSS syntax, using sass-lint (node.js).                         |
 | [SublimeLinter-contrib-scss-lint](https://packagecontrol.io/packages/SublimeLinter-contrib-scss-lint) | SublimeLinter plugin for Sass scss syntax, using scss-lint.                                   |
 | [SublimeLinter-contrib-standard](https://packagecontrol.io/packages/SublimeLinter-contrib-standard)   | This linter plugin for SublimeLinter provides an interface to standard.                       |
