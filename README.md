@@ -61,6 +61,7 @@ Extensions:
 | [SublimeLinter](https://packagecontrol.io/packages/SublimeLinter)                                     | Interactive code linting framework for Sublime Text 3.                                                                                      |
 | [Todo Review](https://packagecontrol.io/packages/TodoReview)                                          | A SublimeText plugin for reviewing todo (and other) comments within your code.                                                              |
 | [Whitespace](https://packagecontrol.io/packages/Whitespace)                                           | Remove Trailing Whitespace on file save.                                                                                                    |
+| [Git](https://packagecontrol.io/packages/Git)                                                         | Plugin for some git integration into sublime text.                                                                                          |
 
 
 #### Terminal: [iTerm2](https://www.iterm2.com/)
@@ -80,6 +81,7 @@ Color theme:
 | [serve](https://github.com/zeit/serve)            | Single-command HTTP directory listing and file serving.              |
 | [yarn](https://github.com/yarnpkg/yarn)           | Yarn is a package manager.                                           |
 | [spectacle](https://github.com/eczarny/spectacle) | Spectacle allows you to organize your windows without using a mouse. |
+
 ## Node.js packages
 
 #### Server Frameworks
