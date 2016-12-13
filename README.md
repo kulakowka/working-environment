@@ -78,3 +78,9 @@ Color theme:
 | [Postman](https://www.getpostman.com/)           | Postman helps me develop APIs faster.                   |
 | [serve](https://github.com/zeit/serve)           | Single-command HTTP directory listing and file serving. |
 | [yarn](https://github.com/yarnpkg/yarn)          | Yarn is a package manager.                              |
+
+## Node.js packages
+
+#### Gulp
+
+- https://github.com/emartech/gulp-pug-lint
