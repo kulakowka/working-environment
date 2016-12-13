@@ -41,6 +41,7 @@ Extensions:
 | [jsFormat](https://packagecontrol.io/packages/JsFormat)                                               | Javascript formatting.                                                                                                                      |
 | [JSX](https://packagecontrol.io/packages/JSX)                                                         | Language Definitions for JSX files.                                                                                                         |
 | [LESS](https://packagecontrol.io/packages/LESS)                                                       | LESS syntax highlighting for Sublime Text.                                                                                                  |
+| [Markdown Extended](https://packagecontrol.io/packages/Markdown%20Extended)                           | Markdown syntax highlighter for Sublime Text, with extended support for GFM fenced code blocks, with language-specific syntax highlighting. |
 | [Markdown Preview](https://packagecontrol.io/packages/Markdown%20Preview)                             | Preview and build markdown files.                                                                                                           |
 | [Markdown Table Formatter](https://packagecontrol.io/packages/Markdown%20Table%20Formatter)           | Sublime Text 3 plugin for formatting markdown table.                                                                                        |
 | [Ruby Slim](https://packagecontrol.io/packages/Ruby%20Slim)                                           | A Sublime Text bundle for Slim.                                                                                                             |
@@ -60,7 +61,6 @@ Extensions:
 | [SublimeLinter](https://packagecontrol.io/packages/SublimeLinter)                                     | Interactive code linting framework for Sublime Text 3.                                                                                      |
 | [Todo Review](https://packagecontrol.io/packages/TodoReview)                                          | A SublimeText plugin for reviewing todo (and other) comments within your code.                                                              |
 | [Whitespace](https://packagecontrol.io/packages/Whitespace)                                           | Remove Trailing Whitespace on file save.                                                                                                    |
-| [Markdown Extended](https://packagecontrol.io/packages/Markdown%20Extended)                           | Markdown syntax highlighter for Sublime Text, with extended support for GFM fenced code blocks, with language-specific syntax highlighting. |
 
 
 #### Terminal: [iTerm2](https://www.iterm2.com/)
