@@ -38,6 +38,8 @@ Extensions:
 | [Doc Blockr](https://packagecontrol.io/packages/DocBlockr)                                            | Simplifies writing DocBlock comments in Javascript, PHP, CoffeeScript, Actionscript, C & C++.                                               |
 | [Editor Config](https://packagecontrol.io/packages/EditorConfig)                                      | Helps developers maintain consistent coding styles between different editors.                                                               |
 | [Git Gutter](https://packagecontrol.io/packages/GitGutter)                                            | Plugin to see git diff in gutter.                                                                                                           |
+| [Git](https://packagecontrol.io/packages/Git)                                                         | Plugin for some git integration into sublime text.                                                                                          |
+| [Gitignore](https://packagecontrol.io/packages/Gitignore)                                             | Plugin for fetching gitignore boilerplates from the collection of gitignore boilerplates by Github.                                         |
 | [Jade](https://packagecontrol.io/packages/Jade)                                                       | A comprehensive textmate / sublime text bundle for the Jade template language.                                                              |
 | [jsFormat](https://packagecontrol.io/packages/JsFormat)                                               | Javascript formatting.                                                                                                                      |
 | [JSX](https://packagecontrol.io/packages/JSX)                                                         | Language Definitions for JSX files.                                                                                                         |
@@ -61,8 +63,6 @@ Extensions:
 | [SublimeLinter-slim-lint](https://packagecontrol.io/packages/SublimeLinter-slim-lint)                 | SublimeLinter plugin for slim templates, using slim-lint.                                                                                   |
 | [SublimeLinter](https://packagecontrol.io/packages/SublimeLinter)                                     | Interactive code linting framework for Sublime Text 3.                                                                                      |
 | [Whitespace](https://packagecontrol.io/packages/Whitespace)                                           | Remove Trailing Whitespace on file save.                                                                                                    |
-| [Git](https://packagecontrol.io/packages/Git)                                                         | Plugin for some git integration into sublime text.                                                                                          |
-| [Gitignore](https://packagecontrol.io/packages/Gitignore)                                             | Plugin for fetching gitignore boilerplates from the collection of gitignore boilerplates by Github.                                         |
 
 
 #### Terminal: [iTerm2](https://www.iterm2.com/)
@@ -80,8 +80,9 @@ Color theme:
 | [pm2](https://github.com/Unitech/pm2)             | Production process manager for Node.js apps.                         |
 | [Postman](https://www.getpostman.com/)            | Postman helps me develop APIs faster.                                |
 | [serve](https://github.com/zeit/serve)            | Single-command HTTP directory listing and file serving.              |
-| [yarn](https://github.com/yarnpkg/yarn)           | Yarn is a package manager.                                           |
+| [soundnode](http://www.soundnodeapp.com/)         | An opensource SoundCloud app for desktop.                            |
 | [spectacle](https://github.com/eczarny/spectacle) | Spectacle allows you to organize your windows without using a mouse. |
+| [yarn](https://github.com/yarnpkg/yarn)           | Yarn is a package manager.                                           |
 
 ## Node.js packages
 
@@ -91,9 +92,10 @@ Color theme:
 - https://www.npmjs.com/package/feathers
 
 #### Gulp
+
 - https://www.npmjs.com/package/gulp-pug-lint
-- https://www.npmjs.com/package/stylint
 - https://www.npmjs.com/package/gulp-standard
+- https://www.npmjs.com/package/stylint
 
 
 
