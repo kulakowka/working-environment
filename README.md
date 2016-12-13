@@ -17,7 +17,7 @@ Extensions:
 
 ##### Hotkeys
 
-| Key | Description |
+| Hotkey | Description |
 | --- | --- |
 | <kbd>CMD</kbd> + <kbd>SHIFT</kbd> + <kbd>R</kbd> | Save and refresh active browser window. |
 | <kbd>CMD</kbd> + <kbd>SHIFT</kbd> + <kbd>S</kbd> | Sort selected lines. |
