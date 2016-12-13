@@ -63,6 +63,7 @@ Extensions:
 | [SublimeLinter-slim-lint](https://packagecontrol.io/packages/SublimeLinter-slim-lint)                 | SublimeLinter plugin for slim templates, using slim-lint.                                                                                   |
 | [SublimeLinter](https://packagecontrol.io/packages/SublimeLinter)                                     | Interactive code linting framework for Sublime Text 3.                                                                                      |
 | [Whitespace](https://packagecontrol.io/packages/Whitespace)                                           | Remove Trailing Whitespace on file save.                                                                                                    |
+| [Zen Tabs](https://packagecontrol.io/packages/Zen%20Tabs)                                             | Set opened tabs limit (default 10) and when you will open 11th tab the oldest one will be closed.                                           |
 
 
 #### Terminal: [iTerm2](https://www.iterm2.com/)
