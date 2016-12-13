@@ -12,6 +12,7 @@ Extensions:
 | [JSON formatter](https://github.com/callumlocke/json-formatter)                                                           | for preview formatted JSON data.                |
 | [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) | for develop React.js applications.              |
 | [Redux DevTools](https://github.com/zalmoxisus/redux-devtools-extension)                                                  | for debug Redux state in React.js applications. |
+| [RSS Feed Reader](https://chrome.google.com/webstore/detail/rss-feed-reader/pnjaodmkngahhkoihejjehlcdlnohgmp)             | for read news from blogs.                       |
 
 #### Text editor for code: [Sublime Text 3](https://www.sublimetext.com/3)
 
