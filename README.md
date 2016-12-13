@@ -23,7 +23,7 @@ Extensions:
 | <kbd>CMD</kbd> + <kbd>SHIFT</kbd> + <kbd>S</kbd>                   | Sort selected lines.                          |
 | <kbd>CMD</kbd> + <kbd>SHIFT</kbd> + <kbd>A</kbd>                   | Sort selected lines using regular expression. |
 | <kbd>CTRL</kbd> + <kbd>ALT</kbd> + <kbd>F</kbd>                    | Format javascript code in standard style.     |
-| <kbd>CTRL</kbd> + <kbd>ALT</kbd> + <kbd>SHIFT</kbd> + <kbd>T</kbd> | Format javascript code in standard style.     |
+| <kbd>CTRL</kbd> + <kbd>ALT</kbd> + <kbd>SHIFT</kbd> + <kbd>T</kbd> | Format selected lines or the entire document. |
 
 ##### Installed Packages:
 
