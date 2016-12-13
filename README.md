@@ -20,6 +20,7 @@ Extensions:
 
 | Hotkey                                                             | Description                                   |
 |:-------------------------------------------------------------------|:----------------------------------------------|
+| <kbd>ALT</kbd> + <kbd>TAB</kbd>                                    | Open Tab Browser.                             |
 | <kbd>CMD</kbd> + <kbd>SHIFT</kbd> + <kbd>R</kbd>                   | Save and refresh active browser window.       |
 | <kbd>CMD</kbd> + <kbd>SHIFT</kbd> + <kbd>S</kbd>                   | Sort selected lines.                          |
 | <kbd>CMD</kbd> + <kbd>SHIFT</kbd> + <kbd>A</kbd>                   | Sort selected lines using regular expression. |
