@@ -2,7 +2,7 @@
 
 A list of programs, plugins, utilities, etc... it's my working environment.
 
-#### Every day sites
+## Every day sites
 
 | Url                                    | Description                                                                                                                                                                                     |
 |:---------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -10,7 +10,7 @@ A list of programs, plugins, utilities, etc... it's my working environment.
 | [npms.io](https://npms.io)             | For search node.js packages.                                                                                                                                                                    |
 | [npmsearch.com](https://npmsearch.com) | For search node.js packages.                                                                                                                                                                    |
 
-#### Primary Browser: [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html)
+## Primary Browser: [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html)
 
 Extensions:
 
@@ -22,9 +22,9 @@ Extensions:
 | [Redux DevTools](https://github.com/zalmoxisus/redux-devtools-extension)                                                  | for debug Redux state in React.js applications. |
 | [RSS Feed Reader](https://chrome.google.com/webstore/detail/rss-feed-reader/pnjaodmkngahhkoihejjehlcdlnohgmp)             | for read news from blogs.                       |
 
-#### Text editor for code: [Sublime Text 3](https://www.sublimetext.com/3)
+## Text editor for code: [Sublime Text 3](https://www.sublimetext.com/3)
 
-##### Hotkeys
+### Hotkeys
 
 | Hotkey                                                             | Description                                   |
 |:-------------------------------------------------------------------|:----------------------------------------------|
@@ -35,7 +35,7 @@ Extensions:
 | <kbd>CTRL</kbd> + <kbd>ALT</kbd> + <kbd>F</kbd>                    | Format javascript code in standard style.     |
 | <kbd>CTRL</kbd> + <kbd>ALT</kbd> + <kbd>SHIFT</kbd> + <kbd>T</kbd> | Format selected lines or the entire document. |
 
-##### Installed Packages:
+### Installed Packages:
 
 | Name                                                                                                  | Description                                                                                                                                 |
 |:------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------|
@@ -75,12 +75,12 @@ Extensions:
 | [Zen Tabs](https://packagecontrol.io/packages/Zen%20Tabs)                                             | Set opened tabs limit (default 10) and when you will open 11th tab the oldest one will be closed.                                           |
 
 
-#### Terminal: [iTerm2](https://www.iterm2.com/)
+## Terminal: [iTerm2](https://www.iterm2.com/)
 
 Color theme:
 - [iterm2-snazzy](https://github.com/sindresorhus/iterm2-snazzy)
 
-#### Utilities
+## Utilities
 
 | Name                                              | Description                                                          |
 |:--------------------------------------------------|:---------------------------------------------------------------------|
