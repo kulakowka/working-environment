@@ -84,7 +84,7 @@ Color theme:
 
 | Name                                              | Description                                                          |
 |:--------------------------------------------------|:---------------------------------------------------------------------|
-| [https://ngrok.com/](ngrok)                       | Secure tunnels to localhost.                                         |
+| [ngrok](https://ngrok.com)                        | Secure tunnels to localhost.                                         |
 | [n](https://www.npmjs.com/package/n)              | Node.js version management.                                          |
 | [nodemon](https://www.npmjs.com/package/nodemon)  | Watch the files and automatically restart application.               |
 | [pm2](https://github.com/Unitech/pm2)             | Production process manager for Node.js apps.                         |
