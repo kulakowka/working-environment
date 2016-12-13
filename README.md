@@ -59,9 +59,9 @@ Extensions:
 | [SublimeLinter-json](https://packagecontrol.io/packages/SublimeLinter-json)                           | SublimeLinter plugin for JSON.                                                                                                              |
 | [SublimeLinter-slim-lint](https://packagecontrol.io/packages/SublimeLinter-slim-lint)                 | SublimeLinter plugin for slim templates, using slim-lint.                                                                                   |
 | [SublimeLinter](https://packagecontrol.io/packages/SublimeLinter)                                     | Interactive code linting framework for Sublime Text 3.                                                                                      |
-| [Todo Review](https://packagecontrol.io/packages/TodoReview)                                          | A SublimeText plugin for reviewing todo (and other) comments within your code.                                                              |
 | [Whitespace](https://packagecontrol.io/packages/Whitespace)                                           | Remove Trailing Whitespace on file save.                                                                                                    |
 | [Git](https://packagecontrol.io/packages/Git)                                                         | Plugin for some git integration into sublime text.                                                                                          |
+| [Gitignore](https://packagecontrol.io/packages/Gitignore)                                             | Plugin for fetching gitignore boilerplates from the collection of gitignore boilerplates by Github.                                         |
 
 
 #### Terminal: [iTerm2](https://www.iterm2.com/)
