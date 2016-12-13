@@ -1,6 +1,6 @@
 # working-environment
 
-A list of programs, plugins, utilities, etc... it's my working environment.
+> I'm a Full-stack Javascript developer. And this my working environment. I have created this list for myself. But I'll be glad if it will be useful to you.
 
 ## Every day sites
 
