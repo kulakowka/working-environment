@@ -42,22 +42,24 @@ Extensions:
 | [JSX](https://packagecontrol.io/packages/JSX)                                                         | Language Definitions for JSX files.                                                           |
 | [LESS](https://packagecontrol.io/packages/LESS)                                                       | LESS syntax highlighting for Sublime Text.                                                    |
 | [Markdown Preview](https://packagecontrol.io/packages/Markdown%20Preview)                             | Preview and build markdown files.                                                             |
+| [Markdown Table Formatter](https://packagecontrol.io/packages/Markdown%20Table%20Formatter)           | Sublime Text 3 plugin for formatting markdown table.                                          |
 | [Ruby Slim](https://packagecontrol.io/packages/Ruby%20Slim)                                           | A Sublime Text bundle for Slim.                                                               |
 | [Sass](https://packagecontrol.io/packages/Sass)                                                       | Sass support for Sublime Text.                                                                |
 | [Side Bar Enhancements](https://packagecontrol.io/packages/SideBarEnhancements)                       | Enhancements to sidebar. Files and folders.                                                   |
 | [StandardFormat](https://packagecontrol.io/packages/StandardFormat)                                   | Runs standard-format against the javascript in your ST3 window on save or manually.           |
 | [Stylus](https://packagecontrol.io/packages/Stylus)                                                   | Stylus Package for Sublime Text.                                                              |
 | [SublimeLinter-annotations](https://packagecontrol.io/packages/SublimeLinter-annotations)             | SublimeLinter 3 plugin that marks annotations such as TODO, FIXME, etc.                       |
+| [SublimeLinter-contrib-sass-lint](https://packagecontrol.io/packages/SublimeLinter-contrib-sass-lint) | SublimeLinter plugin for Sass/SCSS syntax, using sass-lint (node.js).                         |
+| [SublimeLinter-contrib-scss-lint](https://packagecontrol.io/packages/SublimeLinter-contrib-scss-lint) | SublimeLinter plugin for Sass scss syntax, using scss-lint.                                   |
 | [SublimeLinter-contrib-standard](https://packagecontrol.io/packages/SublimeLinter-contrib-standard)   | This linter plugin for SublimeLinter provides an interface to standard.                       |
 | [SublimeLinter-csslint](https://packagecontrol.io/packages/SublimeLinter-csslint)                     | SublimeLinter plugin for CSS, using csslint.                                                  |
 | [SublimeLinter-haml](https://packagecontrol.io/packages/SublimeLinter-haml)                           | SublimeLinter 3 plugin for Haml, using haml -c.                                               |
 | [SublimeLinter-json](https://packagecontrol.io/packages/SublimeLinter-json)                           | SublimeLinter plugin for JSON.                                                                |
 | [SublimeLinter-slim-lint](https://packagecontrol.io/packages/SublimeLinter-slim-lint)                 | SublimeLinter plugin for slim templates, using slim-lint.                                     |
-| [SublimeLinter-contrib-sass-lint](https://packagecontrol.io/packages/SublimeLinter-contrib-sass-lint) | SublimeLinter plugin for Sass/SCSS syntax, using sass-lint (node.js).                         |
-| [SublimeLinter-contrib-scss-lint](https://packagecontrol.io/packages/SublimeLinter-contrib-scss-lint) | SublimeLinter plugin for Sass scss syntax, using scss-lint.                                   |
 | [SublimeLinter](https://packagecontrol.io/packages/SublimeLinter)                                     | Interactive code linting framework for Sublime Text 3.                                        |
 | [Todo Review](https://packagecontrol.io/packages/TodoReview)                                          | A SublimeText plugin for reviewing todo (and other) comments within your code.                |
 | [Whitespace](https://packagecontrol.io/packages/Whitespace)                                           | Remove Trailing Whitespace on file save.                                                      |
+
 
 #### Terminal: [iTerm2](https://www.iterm2.com/)
 
