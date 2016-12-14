@@ -51,17 +51,18 @@ Extensions:
 | [Gitignore](https://packagecontrol.io/packages/Gitignore)                                             | Plugin for fetching gitignore boilerplates from the collection of gitignore boilerplates by Github.                                         |
 | [Jade](https://packagecontrol.io/packages/Jade)                                                       | A comprehensive textmate / sublime text bundle for the Jade template language.                                                              |
 | [jsFormat](https://packagecontrol.io/packages/JsFormat)                                               | Javascript formatting.                                                                                                                      |
-| [JSX](https://packagecontrol.io/packages/JSX)                                                         | Language Definitions for JSX files.                                                                                                         |
 | [LESS](https://packagecontrol.io/packages/LESS)                                                       | LESS syntax highlighting for Sublime Text.                                                                                                  |
 | [Markdown Extended](https://packagecontrol.io/packages/Markdown%20Extended)                           | Markdown syntax highlighter for Sublime Text, with extended support for GFM fenced code blocks, with language-specific syntax highlighting. |
 | [Markdown Preview](https://packagecontrol.io/packages/Markdown%20Preview)                             | Preview and build markdown files.                                                                                                           |
 | [Markdown Table Formatter](https://packagecontrol.io/packages/Markdown%20Table%20Formatter)           | Sublime Text 3 plugin for formatting markdown table.                                                                                        |
+| [Material Theme](https://packagecontrol.io/packages/Material%20Theme)                                 | Material Theme, the most epic theme for Sublime Text 3 by Mattia Astorino.                                                                  |
 | [Ruby Slim](https://packagecontrol.io/packages/Ruby%20Slim)                                           | A Sublime Text bundle for Slim.                                                                                                             |
 | [Sass](https://packagecontrol.io/packages/Sass)                                                       | Sass support for Sublime Text.                                                                                                              |
 | [Side Bar Enhancements](https://packagecontrol.io/packages/SideBarEnhancements)                       | Enhancements to sidebar. Files and folders.                                                                                                 |
 | [StandardFormat](https://packagecontrol.io/packages/StandardFormat)                                   | Runs standard-format against the javascript in your ST3 window on save or manually.                                                         |
 | [Stylus](https://packagecontrol.io/packages/Stylus)                                                   | Stylus Package for Sublime Text.                                                                                                            |
 | [SublimeLinter-annotations](https://packagecontrol.io/packages/SublimeLinter-annotations)             | SublimeLinter 3 plugin that marks annotations such as TODO, FIXME, etc.                                                                     |
+| [SublimeLinter-contrib-eslint](https://packagecontrol.io/packages/SublimeLinter-contrib-eslint)       | This linter plugin for SublimeLinter provides an interface to ESLint.                                                                       |
 | [SublimeLinter-contrib-pug-lint](https://packagecontrol.io/packages/SublimeLinter-contrib-pug-lint)   | SublimeLinter plugin for Pug/Jade.                                                                                                          |
 | [SublimeLinter-contrib-sass-lint](https://packagecontrol.io/packages/SublimeLinter-contrib-sass-lint) | SublimeLinter plugin for Sass/SCSS syntax, using sass-lint (node.js).                                                                       |
 | [SublimeLinter-contrib-scss-lint](https://packagecontrol.io/packages/SublimeLinter-contrib-scss-lint) | SublimeLinter plugin for Sass scss syntax, using scss-lint.                                                                                 |
@@ -73,7 +74,6 @@ Extensions:
 | [SublimeLinter](https://packagecontrol.io/packages/SublimeLinter)                                     | Interactive code linting framework for Sublime Text 3.                                                                                      |
 | [Whitespace](https://packagecontrol.io/packages/Whitespace)                                           | Remove Trailing Whitespace on file save.                                                                                                    |
 | [Zen Tabs](https://packagecontrol.io/packages/Zen%20Tabs)                                             | Set opened tabs limit (default 10) and when you will open 11th tab the oldest one will be closed.                                           |
-
 
 ## Terminal: [iTerm2](https://www.iterm2.com/)
 
