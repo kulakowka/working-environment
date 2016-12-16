@@ -116,6 +116,16 @@ Color theme:
 | [spectacle](https://github.com/eczarny/spectacle) | Spectacle allows you to organize your windows without using a mouse. |
 | [yarn](https://github.com/yarnpkg/yarn)           | Yarn is a package manager.                                           |
 
+##### CLI commands
+
+```bash
+uuid                      # generate unique id
+ngrok http 3000           # secure public URL for port 3000 web server
+n latest                  # install latest node.js       
+nodemon app.js            # run node.js application with watching changes
+serve                     # run a static server in the current directory 
+```
+
 ##### Install utilities
 
 ```bash
