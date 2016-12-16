@@ -141,14 +141,14 @@ npm install -g serve
 
 #### Server Frameworks
 
-- https://www.npmjs.com/package/express
-- https://www.npmjs.com/package/feathers
+- [express](https://www.npmjs.com/package/express)
+- [feathers.js](https://www.npmjs.com/package/feathers)
 
 #### Gulp
 
-- https://www.npmjs.com/package/gulp-pug-lint
-- https://www.npmjs.com/package/gulp-standard
-- https://www.npmjs.com/package/stylint
+- [gulp-pug-lint](https://www.npmjs.com/package/gulp-pug-lint)
+- [gulp-standard](https://www.npmjs.com/package/gulp-standard)
+- [stylint](https://www.npmjs.com/package/stylint)
 
 
 
