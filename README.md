@@ -2,10 +2,11 @@
 
 > I'm a Full-stack Javascript developer. And this my working environment. I have created this list for myself. But I'll be glad if it will be useful to you.
 
-## Every day sites
+## Every day sites or online tools
 
 | Url                                    | Description                                                                                                                                                                                     |
 |:---------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [gitbook.com](https://www.gitbook.com) | For knowledge base and documentations.                                                                                                                                                          |
 | [github.com](https://github.com)       | For [explore new projects](https://github.com/search?l=JavaScript&o=desc&p=1&q=stars%3A%3E100&ref=searchresults&s=updated&type=Repositories&utf8=%E2%9C%93), publish my open-source projects... |
 | [npms.io](https://npms.io)             | For search node.js packages.                                                                                                                                                                    |
 | [npmsearch.com](https://npmsearch.com) | For search node.js packages.                                                                                                                                                                    |
@@ -103,32 +104,35 @@ Color theme:
 
 ## Utilities
 
-| Name                                              | Description                                                          |
-|:--------------------------------------------------|:---------------------------------------------------------------------|
-| [n](https://www.npmjs.com/package/n)              | Node.js version management.                                          |
-| [ngrok](https://ngrok.com)                        | Secure tunnels to localhost.                                         |
-| [node-uuid](https://www.npmjs.com/package/node-uuid)           | Yarn is a package manager.                                           |
-| [nodemon](https://www.npmjs.com/package/nodemon)  | Watch the files and automatically restart application.               |
-| [pm2](https://github.com/Unitech/pm2)             | Production process manager for Node.js apps.                         |
-| [Postman](https://www.getpostman.com/)            | Postman helps me develop APIs faster.                                |
-| [serve](https://github.com/zeit/serve)            | Single-command HTTP directory listing and file serving.              |
-| [soundnode](http://www.soundnodeapp.com/)         | An opensource SoundCloud app for desktop.                            |
-| [spectacle](https://github.com/eczarny/spectacle) | Spectacle allows you to organize your windows without using a mouse. |
-| [yarn](https://github.com/yarnpkg/yarn)           | Yarn is a package manager.                                           |
+| Name                                                     | Description                                                          |
+|:---------------------------------------------------------|:---------------------------------------------------------------------|
+| [GitBook CLI](https://www.npmjs.com/package/gitbook-cli) | CLI to generate books and documentation using gitbook.               |
+| [GitBook Editor](https://www.gitbook.com/editor)         | The Editor brings the GitBook workflow you love to your desktop.     |
+| [n](https://www.npmjs.com/package/n)                     | Node.js version management.                                          |
+| [ngrok](https://ngrok.com)                               | Secure tunnels to localhost.                                         |
+| [node-uuid](https://www.npmjs.com/package/node-uuid)     | Yarn is a package manager.                                           |
+| [nodemon](https://www.npmjs.com/package/nodemon)         | Watch the files and automatically restart application.               |
+| [pm2](https://github.com/Unitech/pm2)                    | Production process manager for Node.js apps.                         |
+| [Postman](https://www.getpostman.com/)                   | Postman helps me develop APIs faster.                                |
+| [serve](https://github.com/zeit/serve)                   | Single-command HTTP directory listing and file serving.              |
+| [soundnode](http://www.soundnodeapp.com/)                | An opensource SoundCloud app for desktop.                            |
+| [spectacle](https://github.com/eczarny/spectacle)        | Spectacle allows you to organize your windows without using a mouse. |
+| [yarn](https://github.com/yarnpkg/yarn)                  | Yarn is a package manager.                                           |
 
 ##### CLI commands
 
 ```bash
-uuid                      # generate unique id
-ngrok http 3000           # secure public URL for port 3000 web server
 n latest                  # install latest node.js       
+ngrok http 3000           # secure public URL for port 3000 web server
 nodemon app.js            # run node.js application with watching changes
 serve                     # run a static server in the current directory 
+uuid                      # generate unique id
 ```
 
 ##### Install utilities
 
 ```bash
+npm install -g gitbook-cli
 npm install -g n
 npm install -g ngrok
 npm install -g node-uuid
