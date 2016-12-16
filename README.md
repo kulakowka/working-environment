@@ -105,8 +105,9 @@ Color theme:
 
 | Name                                              | Description                                                          |
 |:--------------------------------------------------|:---------------------------------------------------------------------|
-| [ngrok](https://ngrok.com)                        | Secure tunnels to localhost.                                         |
 | [n](https://www.npmjs.com/package/n)              | Node.js version management.                                          |
+| [ngrok](https://ngrok.com)                        | Secure tunnels to localhost.                                         |
+| [node-uuid](https://www.npmjs.com/package/node-uuid)           | Yarn is a package manager.                                           |
 | [nodemon](https://www.npmjs.com/package/nodemon)  | Watch the files and automatically restart application.               |
 | [pm2](https://github.com/Unitech/pm2)             | Production process manager for Node.js apps.                         |
 | [Postman](https://www.getpostman.com/)            | Postman helps me develop APIs faster.                                |
@@ -114,6 +115,17 @@ Color theme:
 | [soundnode](http://www.soundnodeapp.com/)         | An opensource SoundCloud app for desktop.                            |
 | [spectacle](https://github.com/eczarny/spectacle) | Spectacle allows you to organize your windows without using a mouse. |
 | [yarn](https://github.com/yarnpkg/yarn)           | Yarn is a package manager.                                           |
+
+##### Install utilities
+
+```bash
+npm install -g n
+npm install -g ngrok
+npm install -g node-uuid
+npm install -g nodemon
+npm install -g pm2
+npm install -g serve
+```
 
 ## Node.js packages
 
