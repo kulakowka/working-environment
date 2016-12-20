@@ -112,11 +112,13 @@ Color theme:
 | [ngrok](https://ngrok.com)                               | Secure tunnels to localhost.                                         |
 | [node-uuid](https://www.npmjs.com/package/node-uuid)     | Yarn is a package manager.                                           |
 | [nodemon](https://www.npmjs.com/package/nodemon)         | Watch the files and automatically restart application.               |
+| [now](https://www.npmjs.com/package/now)                 | Realtime global deployments.                                         |
 | [pm2](https://github.com/Unitech/pm2)                    | Production process manager for Node.js apps.                         |
-| [Postman](https://www.getpostman.com/)                   | Postman helps me develop APIs faster.                                |
+| [Postman](https://www.getpostman.com)                    | Postman helps me develop APIs faster.                                |
 | [serve](https://github.com/zeit/serve)                   | Single-command HTTP directory listing and file serving.              |
-| [soundnode](http://www.soundnodeapp.com/)                | An opensource SoundCloud app for desktop.                            |
+| [soundnode](http://www.soundnodeapp.com)                 | An opensource SoundCloud app for desktop.                            |
 | [spectacle](https://github.com/eczarny/spectacle)        | Spectacle allows you to organize your windows without using a mouse. |
+| [surge.sh](https://surge.sh)                             | Static web publishing for Front-End Developers.                      |
 | [yarn](https://github.com/yarnpkg/yarn)                  | Yarn is a package manager.                                           |
 
 ##### CLI commands
@@ -125,7 +127,9 @@ Color theme:
 n latest                  # install latest node.js       
 ngrok http 3000           # secure public URL for port 3000 web server
 nodemon app.js            # run node.js application with watching changes
+now                       # deploy project to now.sh
 serve                     # run a static server in the current directory 
+surge                     # deploy project to surge.sh
 uuid                      # generate unique id
 ```
 
@@ -137,8 +141,10 @@ npm install -g n
 npm install -g ngrok
 npm install -g node-uuid
 npm install -g nodemon
+npm install -g now
 npm install -g pm2
 npm install -g serve
+npm install -g surge
 ```
 
 ## Node.js packages
