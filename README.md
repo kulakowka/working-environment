@@ -108,6 +108,7 @@ Color theme:
 |:---------------------------------------------------------------------|:---------------------------------------------------------------------|
 | [GitBook CLI](https://www.npmjs.com/package/gitbook-cli)             | CLI to generate books and documentation using gitbook.               |
 | [GitBook Editor](https://www.gitbook.com/editor)                     | The Editor brings the GitBook workflow you love to your desktop.     |
+| [jsinspect](https://github.com/danielstjules/jsinspect)              | Detect copy-pasted and structurally similar code                     |
 | [n](https://www.npmjs.com/package/n)                                 | Node.js version management.                                          |
 | [ngrok](https://ngrok.com)                                           | Secure tunnels to localhost.                                         |
 | [node-uuid](https://www.npmjs.com/package/node-uuid)                 | Yarn is a package manager.                                           |
@@ -125,6 +126,7 @@ Color theme:
 ##### CLI commands
 
 ```bash
+jsinpect                  # detect copy-pasted code
 n latest                  # install latest node.js       
 ncu                       # check outdated packages
 ngrok http 3000           # secure public URL for port 3000 web server
@@ -139,6 +141,7 @@ uuid                      # generate unique id
 
 ```bash
 npm install -g gitbook-cli
+npm install -g jsinpect
 npm install -g n
 npm install -g ngrok
 npm install -g node-uuid
