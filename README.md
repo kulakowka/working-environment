@@ -41,6 +41,7 @@ Extensions:
 | Name                                                                                                  | Description                                                                                                                                 |
 |:------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------|
 | [Align Tab](https://packagecontrol.io/packages/AlignTab)                                              | An alignment plugin using regular expression.                                                                                               |
+| [All Autocomplete](https://packagecontrol.io/packages/All%20Autocomplete)                             | Extends the default autocomplete to find matches in all open files.                                                                         |
 | [Babel](https://packagecontrol.io/packages/Babel)                                                     | Syntax definitions for ES6 JavaScript with React JSX extensions.                                                                            |
 | [Bracket Highlighter](https://packagecontrol.io/packages/BracketHighlighter)                          | Bracket and tag highlighter.                                                                                                                |
 | [Browser Refresh](https://packagecontrol.io/packages/Browser%20Refresh)                               | Save the file you are working on and refresh your browser with one keystroke.                                                               |
@@ -75,6 +76,7 @@ Extensions:
 | [SublimeLinter](https://packagecontrol.io/packages/SublimeLinter)                                     | Interactive code linting framework for Sublime Text 3.                                                                                      |
 | [Whitespace](https://packagecontrol.io/packages/Whitespace)                                           | Remove Trailing Whitespace on file save.                                                                                                    |
 | [Zen Tabs](https://packagecontrol.io/packages/Zen%20Tabs)                                             | Set opened tabs limit (default 10) and when you will open 11th tab the oldest one will be closed.                                           |
+
 
 ##### Install linters
 
