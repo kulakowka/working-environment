@@ -162,18 +162,3 @@ npm install -g serve
 npm install -g surge
 ```
 
-## Node.js packages
-
-#### Server Frameworks
-
-- [express](https://www.npmjs.com/package/express)
-- [feathers.js](https://www.npmjs.com/package/feathers)
-
-#### Gulp
-
-- [gulp-pug-lint](https://www.npmjs.com/package/gulp-pug-lint)
-- [gulp-standard](https://www.npmjs.com/package/gulp-standard)
-- [stylint](https://www.npmjs.com/package/stylint)
-
-
-
