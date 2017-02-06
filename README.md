@@ -35,7 +35,10 @@ Extensions:
 | <kbd>CMD</kbd> + <kbd>SHIFT</kbd> + <kbd>S</kbd>                   | Sort selected lines.                          |
 | <kbd>CTRL</kbd> + <kbd>ALT</kbd> + <kbd>F</kbd>                    | Format javascript code in standard style.     |
 | <kbd>CTRL</kbd> + <kbd>ALT</kbd> + <kbd>SHIFT</kbd> + <kbd>T</kbd> | Format selected lines or the entire document. |
-| <kbd>CTRL</kbd> + <kbd>C</kbd> | Show color picker in Sketch. |
+| <kbd>CTRL</kbd> + <kbd>C</kbd>                                     | Show color picker in Sketch.                  |
+| <kbd>CMD</kbd> + <kbd>P</kbd>                                      | Go to file.                                   |
+| <kbd>CMD</kbd> + <kbd>R</kbd>                                      | Go to function.                               |
+| <kbd>CMD</kbd> + <kbd>;</kbd>                                      | Go to variable.                               |
 
 ### Installed Packages:
 
@@ -59,6 +62,7 @@ Extensions:
 | [Markdown Preview](https://packagecontrol.io/packages/Markdown%20Preview)                             | Preview and build markdown files.                                                                                                           |
 | [Markdown Table Formatter](https://packagecontrol.io/packages/Markdown%20Table%20Formatter)           | Sublime Text 3 plugin for formatting markdown table.                                                                                        |
 | [Material Theme](https://packagecontrol.io/packages/Material%20Theme)                                 | Material Theme, the most epic theme for Sublime Text 3 by Mattia Astorino.                                                                  |
+| [QuickGotoAnything](https://packagecontrol.io/packages/QuickGotoAnything)                             | Sublime Text Plugin to quick scroll to function/variable or quick open file, It use selected word.                                          |
 | [Ruby Slim](https://packagecontrol.io/packages/Ruby%20Slim)                                           | A Sublime Text bundle for Slim.                                                                                                             |
 | [Sass](https://packagecontrol.io/packages/Sass)                                                       | Sass support for Sublime Text.                                                                                                              |
 | [Side Bar Enhancements](https://packagecontrol.io/packages/SideBarEnhancements)                       | Enhancements to sidebar. Files and folders.                                                                                                 |
