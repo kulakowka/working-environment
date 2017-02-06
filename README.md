@@ -27,18 +27,20 @@ Extensions:
 
 ### Hotkeys
 
-| Hotkey                                                             | Description                                   |
-|:-------------------------------------------------------------------|:----------------------------------------------|
-| <kbd>ALT</kbd> + <kbd>TAB</kbd>                                    | Open Tab Browser.                             |
-| <kbd>CMD</kbd> + <kbd>SHIFT</kbd> + <kbd>A</kbd>                   | Sort selected lines using regular expression. |
-| <kbd>CMD</kbd> + <kbd>SHIFT</kbd> + <kbd>R</kbd>                   | Save and refresh active browser window.       |
-| <kbd>CMD</kbd> + <kbd>SHIFT</kbd> + <kbd>S</kbd>                   | Sort selected lines.                          |
-| <kbd>CTRL</kbd> + <kbd>ALT</kbd> + <kbd>F</kbd>                    | Format javascript code in standard style.     |
-| <kbd>CTRL</kbd> + <kbd>ALT</kbd> + <kbd>SHIFT</kbd> + <kbd>T</kbd> | Format selected lines or the entire document. |
-| <kbd>CTRL</kbd> + <kbd>C</kbd>                                     | Show color picker in Sketch.                  |
-| <kbd>CMD</kbd> + <kbd>P</kbd>                                      | Go to file.                                   |
-| <kbd>CMD</kbd> + <kbd>R</kbd>                                      | Go to function.                               |
-| <kbd>CMD</kbd> + <kbd>;</kbd>                                      | Go to variable.                               |
+| Hotkey                                                             | Description                                                         |
+|:-------------------------------------------------------------------|:--------------------------------------------------------------------|
+| <kbd>ALT</kbd> + <kbd>TAB</kbd>                                    | Open Tab Browser.                                                   |
+| <kbd>CMD</kbd> + <kbd>SHIFT</kbd> + <kbd>A</kbd>                   | Sort selected lines using regular expression.                       |
+| <kbd>CMD</kbd> + <kbd>SHIFT</kbd> + <kbd>R</kbd>                   | Save and refresh active browser window.                             |
+| <kbd>CMD</kbd> + <kbd>SHIFT</kbd> + <kbd>S</kbd>                   | Sort selected lines.                                                |
+| <kbd>CTRL</kbd> + <kbd>ALT</kbd> + <kbd>F</kbd>                    | Format javascript code in standard style.                           |
+| <kbd>CTRL</kbd> + <kbd>ALT</kbd> + <kbd>SHIFT</kbd> + <kbd>T</kbd> | Format selected lines or the entire document.                       |
+| <kbd>CTRL</kbd> + <kbd>C</kbd>                                     | Show color picker in Sketch.                                        |
+| <kbd>CMD</kbd> + <kbd>R</kbd>                                      | Open popup to quick browse the function defined in the opened file. |
+| <kbd>CMD</kbd> + <kbd>P</kbd>                                      | Open popup with command palette.                                    |
+| select text + <kbd>CMD</kbd> + <kbd>P</kbd>                        | Go to file.                                                         |
+| select text + <kbd>CMD</kbd> + <kbd>R</kbd>                        | Go to function.                                                     |
+| select text + <kbd>CMD</kbd> + <kbd>;</kbd>                        | Go to variable.                                                     |
 
 ### Installed Packages:
 
