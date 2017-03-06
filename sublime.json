@@ -1,0 +1,41 @@
+{
+  "always_show_minimap_viewport": true,
+  "auto_complete": true,
+  "bold_folder_labels": true,
+  "color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+  "folder_exclude_patterns":
+  [
+    "node_modules",
+    ".git"
+  ],
+  "font_face": "Menlo",
+  "font_options":
+  [
+    "no_italic"
+  ],
+  "font_size": 11,
+  "highlight_line": true,
+  "highlight_modified_tabs": true,
+  "ignored_packages":
+  [
+    "Vintage"
+  ],
+  "indent_guide_options":
+  [
+    "draw_normal",
+    "draw_active"
+  ],
+  "index_exclude_patterns":
+  [
+    "/Users/kulakowka/Documents/php/tmtm/www/bin*",
+    "*.log",
+    "node_modules"
+  ],
+  "index_files": false,
+  "line_padding_bottom": 3,
+  "line_padding_top": 3,
+  "tab_size": 2,
+  "theme": "Material-Theme.sublime-theme",
+  "translate_tabs_to_spaces": true,
+  "word_wrap": false
+}
