@@ -10,6 +10,7 @@
 | [github.com](https://github.com)       | For [explore new projects](https://github.com/search?l=JavaScript&o=desc&p=1&q=stars%3A%3E100&ref=searchresults&s=updated&type=Repositories&utf8=%E2%9C%93), publish my open-source projects... |
 | [npms.io](https://npms.io)             | For search node.js packages.                                                                                                                                                                    |
 | [npmsearch.com](https://npmsearch.com) | For search node.js packages.                                                                                                                                                                    |
+| [monosnap.com](https://monosnap.com)   | For share screenshots.                                                                                                                                                                          |
 
 ## Primary Browser: [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html)
 
