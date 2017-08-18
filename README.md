@@ -43,6 +43,16 @@ Extensions:
 | select text + <kbd>CMD</kbd> + <kbd>P</kbd>                        | Go to file.                                                         |
 | select text + <kbd>CMD</kbd> + <kbd>R</kbd>                        | Go to function.                                                     |
 
+## Text editor for code: [Web Storm](https://www.jetbrains.com/webstorm)
+
+### Hotkeys
+
+| Hotkey | Description |
+|:-------|:------------|
+| <kbd>SHIFT</kbd> + <kbd>ALT</kbd> + <kbd>L</kbd> | Sort lines |
+| <kbd>ALT</kbd> + <kbd>UP</kbd> | Select successively increasing code block |
+| <kbd>ALT</kbd> + <kbd>DOWN</kbd> | Decrease current selection to previous state |
+
 ### Installed Packages:
 
 | Name                                                                                                  | Description                                                                                                                                 |
